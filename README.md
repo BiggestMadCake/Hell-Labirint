@@ -1,1 +1,1 @@
-# Hell-Labirint
+# HellLabirint
